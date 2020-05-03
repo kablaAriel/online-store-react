@@ -1,0 +1,29 @@
+  body {
+      font: 14px "Century Gothic", Futura, sans-serif;
+      margin: 20px;
+      background: lightblue;
+      color: whitesmoke;
+  }
+  
+  .card-img-top {
+      height: auto;
+      display: block;
+      box-shadow: none;
+      max-height: 170px;
+      width: auto;
+      margin: 0 auto;
+  }
+  
+  .card-text {
+      color: #27282d;
+      font-size: 13px;
+      height: 80px;  
+  }
+
+  .card-title{
+    color: #27282d;  
+  }
+
+  .navbar{
+    background-color: black;
+  }
